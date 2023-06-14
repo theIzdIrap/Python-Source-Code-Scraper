@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import requests
 
 a = input("Create File and  save. File Name: ")
